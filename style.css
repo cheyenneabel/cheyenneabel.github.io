@@ -1,0 +1,27 @@
+body {
+  background-color: rgb(10, 147, 150);
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+  
+h1 {
+    color: rgb(0, 18, 25);
+    text-align:justify;
+    text-shadow: 0 0 1px black;
+    border-style: hidden;
+    border-width: 2px;
+  }
+
+a:link {
+    color: rgb(155, 34, 38);
+}
+
+a:visited {
+    color: rgb(155, 34, 38);
+}
+
+a:hover {
+    color: rgb(187, 62, 3);
+  }
+
+
+
